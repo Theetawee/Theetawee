@@ -2,8 +2,6 @@
 <h3 align="center">A passionate frontend developer from Uganda</h3>
 
 
-- 🔭 I’m currently working on **Barabara Safaris**
-
 - 👨‍💻 All of my projects are available at [redodevs.onrender.com](redodevs.onrender.com)
 
 - 💬 Ask me about **django , Python**
