@@ -1,12 +1,3 @@
-<div align="center">
-  <img height="200" src="https://theetawee.github.io/Theetawee/images/drake.png"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Theetawee.Theetawee&right_color=teal&left_text=views"  />
-</div>
 
 <h1 align="left">Khaotungkulmethee Pattawee Drake</h1>
 
@@ -19,6 +10,10 @@
 ######
 
 <h3 align="center">Socials</h3>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Theetawee.Theetawee&right_color=teal&left_text=views"  />
+</div>
 
 
 <div align="center">
