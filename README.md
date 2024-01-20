@@ -1,24 +1,71 @@
-# 💫 About Me:
-CEO Waanverse Corp.
+<div align="center">
+  <img height="200" src="https://theetawee.github.io/Theetawee/images/drake.png"  />
+</div>
 
+###
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/theetawee)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Theetawee.Theetawee&right_color=teal&left_text=views"  />
+</div>
 
-# 💻 Tech Stack:
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Theetawee&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Theetawee&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Theetawee&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+###
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<h1 align="left">Khaotungkulmethee Pattawee Drake</h1>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Theetawee&limit=5&theme=dark&combine_all_yearly_contributions=true)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=Theetawee&icon=2&color=9)](https://visitcount.itsvg.in)
+<p align="left">I am based in Uganda, serving as the Chairman of Redo Developers Inc. and holding the position of CEO at Waanverse Corp. Alongside my responsibilities in the technology sector, I am a qualified Medical Laboratory Technician.<br><br>In my professional capacity, I oversee strategic decisions and operations at Redo Developers Inc., ensuring the successful execution of our projects. Simultaneously, as the CEO of Waanverse Corp, I lead our team in driving innovation and achieving business objectives.<br><br>Currently, I am dedicated to continuous learning in web and app development, exploring advanced techniques to enhance the quality and functionality of our solutions. My background as a Medical Laboratory Technician reflects my commitment to contributing not only to the tech industry but also to the well-being of individuals through healthcare.</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/theetawee/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/theetawee" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.waanverse.com/theetawee" target="_blank">
+    <img src="https://theetawee.github.io/Theetawee/images/waanverse/logo.svg" width="52" height="40" alt="Waanverse logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Theetawee&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
