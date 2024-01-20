@@ -8,17 +8,20 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Theetawee.Theetawee&right_color=teal&left_text=views"  />
 </div>
 
-###
-
 <h1 align="left">Khaotungkulmethee Pattawee Drake</h1>
 
-###
+<p align="left">Greetings, I'm Khaotungkulmethee Pattawee Drake, currently based in Uganda. I proudly serve as the Chairman of Redo Developers Inc. and hold the esteemed position of CEO at Waanverse Corp. In addition to my leadership roles in the technology sector, I bring a wealth of experience as a qualified Medical Laboratory Technician.</p>
 
-<p align="left">I am based in Uganda, serving as the Chairman of Redo Developers Inc. and holding the position of CEO at Waanverse Corp. Alongside my responsibilities in the technology sector, I am a qualified Medical Laboratory Technician.<br><br>In my professional capacity, I oversee strategic decisions and operations at Redo Developers Inc., ensuring the successful execution of our projects. Simultaneously, as the CEO of Waanverse Corp, I lead our team in driving innovation and achieving business objectives.<br><br>Currently, I am dedicated to continuous learning in web and app development, exploring advanced techniques to enhance the quality and functionality of our solutions. My background as a Medical Laboratory Technician reflects my commitment to contributing not only to the tech industry but also to the well-being of individuals through healthcare.</p>
+<p align="left">Within the realm of technology, I play a pivotal role in steering the strategic decisions and operations of Redo Developers Inc., ensuring the successful execution of our diverse projects. Simultaneously, as the CEO of Waanverse Corp, I lead a dynamic team in fostering innovation and achieving key business objectives.</p>
 
-###
+<p align="left">Dedicated to continuous improvement, I am currently immersed in ongoing learning initiatives within web and app development. My goal is to explore and implement advanced techniques that elevate the quality and functionality of our solutions. Beyond the tech realm, my background as a Medical Laboratory Technician underscores my commitment to making meaningful contributions not only to the tech industry but also to the broader well-being of individuals through healthcare.</p>
 
-<div align="left">
+######
+
+<h3 align="center">Socials</h3>
+
+
+<div align="center">
   <a href="https://www.linkedin.com/in/theetawee/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -32,11 +35,11 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -60,7 +63,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
