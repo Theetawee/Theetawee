@@ -1,17 +1,7 @@
 <h1 align="left">Khaotungkulmethee Pattawee Drake</h1>
-
 <p align="left">
-    Greetings, I'm Khaotungkulmethee Pattawee Drake, currently based in Uganda. I proudly serve as the CEO and Chairman of Waanverse Labs Inc. Although I go by the names of Lubega Frank, I prefer my native names Khaotungkulmethee Pattawee or simply my nickname Drake.
-</p>
 
-<p align="left">
-    Within the realm of technology, I play a pivotal role in steering the strategic decisions and operations of Waanverse Labs Inc., ensuring the successful execution of our diverse projects. Despite my leadership responsibilities, I am an active software developer and programmer, dedicating most of my time to creating and innovating in the tech space.
-</p>
-
-<p align="left">
-    Dedicated to continuous improvement, I am currently immersed in ongoing learning initiatives within web and app development. My goal is to explore and implement advanced techniques that elevate the quality and functionality of our solutions.
-</p>
-
+Khaotungkulmethee Pattawee is the Founder, Chairman, and Chief Executive Officer of Waanverse Labs Inc. Known for his strong leadership and innovative mindset, he has been instrumental in positioning the company as a leader in technological advancements. Pattawee's journey from a self-taught software developer to leading a successful technology firm is a testament to his dedication and foresight.</p>
 <p align="left">
     You can read more about me on my <a href="https://www.waanverse.com/en-us/executives/khaotungkulmethee-pattawee/" target="_blank">Waanverse profile</a>.
 </p>
