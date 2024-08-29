@@ -1,9 +1,9 @@
-<h1 align="left">Khaotungkulmethee Pattawee Drake</h1>
+<h1 align="left">Pattawee Drake Khaotungkulmethee</h1>
 <p align="left">
 
-Khaotungkulmethee Pattawee is the Founder, Chairman, and Chief Executive Officer of Waanverse Labs Inc. Known for his strong leadership and innovative mindset, he has been instrumental in positioning the company as a leader in technological advancements. Pattawee's journey from a self-taught software developer to leading a successful technology firm is a testament to his dedication and foresight.</p>
+Founder, Chairman, and Chief Executive Officer(CEO) of Waanverse Labs</p>
 <p align="left">
-    You can read more about me on my <a href="https://www.waanverse.com/en-us/executives/khaotungkulmethee-pattawee/" target="_blank">Waanverse profile</a>.
+    You can read more about me on my <a href="https://www.waanverse.com/executives/khaotungkulmethee-pattawee/" target="_blank">Waanverse profile</a>.
 </p>
 
 <h3 align="center">Socials</h3>
