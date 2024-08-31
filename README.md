@@ -1,7 +1,6 @@
 <h1 align="left">Pattawee Drake Khaotungkulmethee</h1>
 <p align="left">
-
-Founder, Chairman, and Chief Executive Officer(CEO) of Waanverse Labs</p>
+Founder and CEO of Waanverse Labs</p>
 <p align="left">
     You can read more about me on my <a href="https://www.waanverse.com/executives/khaotungkulmethee-pattawee/" target="_blank">Waanverse profile</a>.
 </p>
